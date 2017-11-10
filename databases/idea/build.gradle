@@ -1,6 +1,4 @@
-dependencies {
-    compile project(":components:rest-support")
+databases {
 
-    compile "org.springframework:spring-jdbc:$springVersion"
-
+    database="idea"
 }
