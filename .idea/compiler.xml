@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="applications-ar_main" target="1.8" />
+      <module name="applications-ar_test" target="1.8" />
+      <module name="applications-idea_main" target="1.8" />
+      <module name="applications-idea_test" target="1.8" />
+      <module name="applications-invoice_main" target="1.8" />
+      <module name="applications-invoice_test" target="1.8" />
+      <module name="applications_main" target="1.8" />
+      <module name="applications_test" target="1.8" />
+      <module name="components-ar_main" target="1.8" />
+      <module name="components-ar_test" target="1.8" />
+      <module name="components-idea_main" target="1.8" />
+      <module name="components-idea_test" target="1.8" />
+      <module name="components-invoice_main" target="1.8" />
+      <module name="components-invoice_test" target="1.8" />
+      <module name="components_main" target="1.8" />
+      <module name="components_test" target="1.8" />
+      <module name="rest-support_main" target="1.8" />
+      <module name="rest-support_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

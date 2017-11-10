@@ -1,0 +1,11 @@
+rootProject.name="invoiceservice"
+
+include "applications:idea"
+include "applications:ar"
+include "applications:invoice"
+
+include "components:idea"
+include "components:ar"
+include "components:invoice"
+
+include "components:rest-support"

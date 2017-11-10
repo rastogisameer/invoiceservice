@@ -1,0 +1,30 @@
+buildscript {
+
+    ext {
+        springBootVersion="1.5.3.RELEASE"
+        springVersion="4.3.8.RELEASE"
+    }
+    repositories {
+        mavenCentral()
+        jcenter()
+    }
+
+    dependencies {
+
+        classpath "org.springframework.boot:spring-boot-gradle-plugin:$springBootVersion"
+    }
+}
+subprojects {
+    group "sam.invoiceservice"
+
+    apply plugin: "java"
+    repositories {
+        mavenCentral()
+        jcenter()
+    }
+
+    dependencies {
+
+        testCompile "junit:junit:4.12"
+    }
+}
